@@ -7,10 +7,10 @@ Welcome to Mkulima Hire! This repository contains the code for a project that ai
 - **Growth & Sustainability**: Support agriculture development through technology.
 
 ## Installation
-```git clone https://github.com/nimba005/mkulima.git```
+    ```git clone https://github.com/nimba005/mkulima.git```
 
-```cd mkulima```
+    ```cd mkulima```
 
-```npm install```
+    ```npm install```
 
-```npm run dev```
+    ```npm run dev```
